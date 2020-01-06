@@ -1,0 +1,1 @@
+banana_generate_on_player_spawned = true
